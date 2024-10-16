@@ -536,6 +536,20 @@ label {
 h3 {
   font-size: 24px; }
 
+.text-left {
+  color: #ababab;
+}  
+
+div.text-left p {
+  color: #ababab;
+}  
+
+strong {
+  color: #fff;
+  font-weight: 500;
+  font-family: "Pathway Extreme", sans-serif;
+}  
+
 .mb-65 {
   margin-bottom: 67px; }
 
